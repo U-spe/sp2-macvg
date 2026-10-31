@@ -3,7 +3,7 @@
   "name": "sp2-macvg",
   "compatibility_date": "2026-10-23",
   "assets": {
-    "directory": ".",
+    "directory": "./.worker-assets",
     "not_found_handling": "none"
   }
 }
